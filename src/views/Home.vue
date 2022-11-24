@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <Flipbook class="flipbook" :pages="pages" />
+    Testing
+    <flipbook class="flipbook" :pages="pages" />
   </div>
 </template>
 
